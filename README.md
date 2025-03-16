@@ -1,6 +1,6 @@
 # Neural Network in Assembly (x86_64)
 
-This project implements a simple neural network in Assembly using x86_64 with Intel syntax. The network is designed to train a single parameter (weight) to map input-output pairs based on linear regression.
+This project implements a simple neural network in Assembly using x86_64 with Intel syntax. The network is designed to train a single parameter (weight) to map input-output pairs.
 
 ## Project Overview
 - **Architecture**: x86_64, Intel Syntax
