@@ -44,7 +44,7 @@ si 100
 
 ## Output
 
-I have used gdb degubber to check the value of the xmm0 register which is our weight parameter. 
+I have used gdb debugger to check the value of the xmm0 register which is our weight parameter. 
 
 ![Training Progress Output 1](./images/training_progress.png)
 
